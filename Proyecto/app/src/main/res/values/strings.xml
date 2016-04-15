@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="contactos">Contactos</string>
+
+    <string-array name="actores">
+        <item>Pos 1</item>
+        <item>Pos 2</item>
+        <item>Pos 3</item>
+        <item>Pos 4</item>
+        <item>Pos 5</item>
+    </string-array>
+    <string name="title_activity_inicio">Inicio</string>
+</resources>

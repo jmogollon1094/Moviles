@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.alejandro.proyecto.Inicio"
+    tools:showIn="@layout/activity_inicio">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:text="Iniciar con: "
+        android:textAlignment="center"
+        android:background="#e6e7f5"
+        android:textStyle="normal|bold"
+        android:textColor="#4e60a2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="User 1: jcrada"
+            android:id="@+id/b1"
+            android:onClick="cargarContactos"
+            android:textColor="#555bb9"
+            android:background="#f7f6f6" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="User 2: lgonzales"
+            android:id="@+id/b2"
+            android:onClick="cargarContactos"
+            android:textColor="#555bb9"
+            android:background="#e8e8e8" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="User 3: acaballero"
+            android:id="@+id/b3"
+            android:onClick="cargarContactos"
+            android:textColor="#555bb9"
+            android:background="#f7f6f6"
+             />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="User 4: jmogollon"
+            android:id="@+id/b4"
+            android:onClick="cargarContactos"
+            android:textColor="#555bb9"
+            android:background="#e8e8e8"
+             />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="User 5: jvillay"
+            android:id="@+id/b5"
+            android:onClick="cargarContactos"
+            android:textColor="#555bb9"
+            android:background="#f7f6f6"
+             />
+
+
+</LinearLayout>

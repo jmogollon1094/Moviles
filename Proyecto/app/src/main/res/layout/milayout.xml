@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="New Button"
+    android:id="@+id/button"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAlignment="textStart"
+    android:textColor="#036fa5"
+    android:background="#f8f9fd"
+    android:onClick="abrirChat">
+</Button>
