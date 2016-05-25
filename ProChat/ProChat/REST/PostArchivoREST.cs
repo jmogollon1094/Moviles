@@ -15,6 +15,8 @@ namespace ProChat.REST
             var client = new RestClient("http://192.168.250.83:8191");
             var request = new RestRequest("rest/files/" + idfrom.ToString() + "/" + idto.ToString(), Method.POST);
             request.AddFile("file", filename);
+            IRestResponse respon = client.Execute(request);
+            var content = respon.Content;
             var result = client.ExecuteAsync(request, (response) =>
             {
                 Console.WriteLine("Bien");
