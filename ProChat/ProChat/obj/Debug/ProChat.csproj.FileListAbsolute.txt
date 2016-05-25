@@ -1,0 +1,74 @@
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\bin\Debug\ProChat.exe.config
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\bin\Debug\ProChat.exe
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\bin\Debug\ProChat.pdb
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat.csprojResolveAssemblyReference.cache
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\MainWindow.g.cs
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\App.g.cs
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat_MarkupCompile.cache
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat_MarkupCompile.lref
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\MainWindow.baml
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat.g.resources
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat.Properties.Resources.resources
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat.csproj.GenerateResource.Cache
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat.exe
+c:\users\jfmm\documents\visual studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat.pdb
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\EntityFramework.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Data.SQLite.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\EntityFramework.xml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Data.SQLite.xml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\obj\Debug\ProChat.csproj.App.config
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\RestSharp.dll
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\bin\Debug\RestSharp.xml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\obj\Debug\Chat.g.cs
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\obj\Debug\Chat.baml
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\obj\Debug\Contactos.g.cs
+C:\Users\jfmm\Documents\Visual Studio 2015\Projects\ProChat\ProChat\obj\Debug\Contactos.baml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\ProChat.exe.config
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat.exe
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat.pdb
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\ProChat.exe
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\ProChat.pdb
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\EntityFramework.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\RestSharp.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\EntityFramework.xml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\RestSharp.xml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat.csproj.App.config
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat.csprojResolveAssemblyReference.cache
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\Chat.g.cs
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\Contactos.g.cs
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\MainWindow.g.cs
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\App.g.cs
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat_MarkupCompile.cache
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat_MarkupCompile.lref
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\Chat.baml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\Contactos.baml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\MainWindow.baml
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat.g.resources
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat.Properties.Resources.resources
+C:\Users\Jfmm-10\Documents\Universidad\9 Semestre\Moviles\ProChat\ProChat\obj\Debug\ProChat.csproj.GenerateResource.Cache
